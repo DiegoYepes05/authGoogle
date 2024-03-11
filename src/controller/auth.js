@@ -20,7 +20,7 @@ const googleAuth = async ( req, res = response ) => {
         });
     }
 
-    // TODO: Guardar en su base de datos
+
 
 
     res.json({
